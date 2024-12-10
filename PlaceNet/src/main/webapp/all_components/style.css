@@ -1,0 +1,27 @@
+.bt{
+margin:5px;	
+}
+
+.navbar {
+	background:#8A86EB;
+	
+}
+
+.foot{
+	background:#8A86EB;
+	position:absolute;
+	right:0;
+	left:0;
+	bottom:0;
+}
+
+.navbar .nav-item .nav-link{
+	color:white;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background:white;
+	color:black;
+	border-radius:10px;
+}
+
